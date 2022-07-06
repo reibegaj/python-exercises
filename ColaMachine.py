@@ -1,6 +1,6 @@
 import sys
 
-print("Please choose one of the beverages: (1)Cola, (2) Sprite,(3) Pepsi,(4) Fanta,(5) Coffee)")
+print("Please choose one of the beverages: (1)Coca-Cola, (2) Sprite,(3) Pepsi,(4) Fanta,(5) Coffee)")
 
 beverages = {1: "Coca-Cola", 2: "Sprite", 3: "Pepsi", 4: "Fanta", 5: "Coffee"}
 
