@@ -1,10 +1,11 @@
 import sys
 
+
 x = int(input("Provide a number different than 5: "))
+i = int(1)
 
-while x != 5:
+while i < 10 and x != 5:
     x = int(input("Provide a number different than 5: "))
-
+    i = i + 1
 else:
-    print("Hey, you weren't supposed to enter 5")
-
+    print("Wow, you're more patient then I am, you win.")
